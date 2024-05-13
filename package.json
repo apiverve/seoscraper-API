@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/seoscraper",
+  "version": "1.0.0",
+  "description": "SEO Scraper is a simple tool for scraping SEO data. It returns the meta title, meta description, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/seoscraper-API.git"
+  },
+  "keywords": [
+    "seo scraper"," seo scraper api"," seo scraper tool"," seo scraper software"," seo scraper service"," seo scraper library"," seo scraper sdk"," seo scraper code"," seo scraper script"," seo scraper program"," seo scraper application"," seo scraper app"," seo scraper utility"," seo scraper helper"," seo scraper helper tool"," seo scraper helper software"," seo scraper helper service"," seo scraper helper library"," seo scraper helper sdk"," seo scraper helper code"," seo scraper helper script"," seo scraper helper program"," seo scraper helper application"," seo scraper helper app"," seo scraper helper tool"," seo scraper helper utility"," seo scraper helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/seoscraper-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/seoscraper-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
