@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/seoscraper-API.git"
   },
   "keywords": [
-    "seo scraper"," seo scraper api"," seo scraper tool"," seo scraper software"," seo scraper service"," seo scraper library"," seo scraper sdk"," seo scraper code"," seo scraper script"," seo scraper program"," seo scraper application"," seo scraper app"," seo scraper utility"," seo scraper helper"," seo scraper helper tool"," seo scraper helper software"," seo scraper helper service"," seo scraper helper library"," seo scraper helper sdk"," seo scraper helper code"," seo scraper helper script"," seo scraper helper program"," seo scraper helper application"," seo scraper helper app"," seo scraper helper tool"," seo scraper helper utility"," seo scraper helper"
+    "seo scraper","seo scraper api","seo scraper tool","seo scraper software","seo scraper service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
