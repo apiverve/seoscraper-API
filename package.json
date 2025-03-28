@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/seoscraper",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "SEO Scraper is a simple tool for scraping SEO data. It returns the meta title, meta description, and more.",
   "main": "index.js",
   "scripts": {
